@@ -32,7 +32,7 @@ export default function Hero () {
             <Link href="https://www.linkedin.com/in/dev-cesarnavarro/">
               <HiOutlineMail fontSize={40}/>
             </Link>  */}
-            {/* <ContactHero/> */}
+            <ContactHero/>
           </div>
         </div>
       </div>
